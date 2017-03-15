@@ -9,7 +9,7 @@ the theory of symmetric SPN-ciphers and on the method of concealing of a linear 
 
 It allows both encryption and signing of messages with a speed of a classical block cipher.
 
-EVHEN is named in honor of two greates mathematicians: Evariste Galois and Jules Henri Poincare.
+EVHEN is named in honor of two greatest mathematicians: Evariste Galois and Jules Henri Poincare.
 
 DEPENDENCIES
 ------------
