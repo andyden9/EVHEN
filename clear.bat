@@ -18,4 +18,6 @@ del /s /q debug
 del /s /q release
 del /s /q wb_creator\debug
 del /s /q wb_creator\release
+del /s /q wb_sample\debug
+del /s /q wb_sample\release
 cd %CURDIR%
